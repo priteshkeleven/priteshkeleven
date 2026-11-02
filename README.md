@@ -69,6 +69,6 @@ PG Diploma, Applied AI (George Brown College, Toronto) · B.E., Instrumentation 
 
 I write *Building at the Edge* about how AI systems should show their work. Each post leads with a design decision and its reason.
 
-[acasalabs.com](https://acasalabs.com) · [LinkedIn](https://linkedin.com/in/pritesh-k) · [X](https://x.com/priteshkeleven) · pritesh.kanani123@gmail.com
+[acasalabs.com](https://acasalabs.com) · [LinkedIn](https://linkedin.com/in/pritesh-k) · [X](https://x.com/priteshkeleven)
 
 Surat, India · Canadian permanent resident, in Canada from January 2027 · open to San Francisco or remote
